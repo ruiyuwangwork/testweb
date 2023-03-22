@@ -1,7 +1,6 @@
 Eric Beyerle 埃里克
 
-
-# photo
+![](https://terpconnect.umd.edu/~ebeyerle/images/beyerle_headshot.JPG)
 
 ## words
 Paragraphs
